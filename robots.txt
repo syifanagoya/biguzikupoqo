@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://biguzikupoqo.pages.dev/sitemap.xml
